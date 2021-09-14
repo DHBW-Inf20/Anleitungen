@@ -245,12 +245,7 @@ Else
    Gui, Add, Text,, STRG + ALT + T 	|	AlwaysOnTop toggeln
    Gui, Add, Text,, STRG + Shift + C 	| 	Markiertes in Google suchen 
    Gui, Add, Text,, Windows + Nummer 	| 	Virtuellen Desktop wechseln
-   Gui, Add, Text,, STRG + ALT + P 	| 	Passwort-Einfüger
-   Gui, Add, Text,, WIN + ENTF  		| 	Papierkorb leeren
    Gui, Add, Text,, STRG + ALT + A  	| 	Autohotkey deaktivieren
-   Gui, Add, Text,, STRG + ALT + G 	| 	InputBox zur Google Suche
-   Gui, Add, Text,, STRG + SHIFT + T 	| 	Restzeit bis zur Pause
-   Gui, Add, Text,, STRG + SHIFT + P	| 	Erinnerungen ans Trinken starten
    Gui, Add, Text,, STRG + SHIFT + E	|	Übersetze ins Englische
    Gui, Add, Text,, STRG + SHIFT + D	|	Übersetze ins Deutsche
    Gui, Add, Text,, STRG + ALT+ M	|	Übersicht der Hotkeys
@@ -262,12 +257,7 @@ Else
    Gui, Add, Text,, @d -> i20035@hb.dhbw-stuttgart.de
    Gui, Add, Text,, @s -> schul352
    Gui, Add, Text,, @m -> 2758638
-   Gui, Add, Text,, cdsch -> cd C:\Users\schul352
-   Gui, Add, Text,, cdente -> cd C:\Users\entep04
-   Gui, Add, Text,, cdreact -> cd C:\Users\entep04\Desktop\homepage-react
    Gui, Add, Text,, cd- -> cd ..\
-   Gui, Add, Text,, npmrs -> npm run start  
-   Gui, Add, Text,,  @ba -> D:\BACKUP\CMD\shutdown_mode.txt`n         -> Datei für Daily Routine
    Gui, Show
 }
 
