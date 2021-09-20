@@ -6,6 +6,7 @@ Hier mal ein Repository in dem wir Anleitungen sammeln können, z.B. zur Bedienu
 ![image](https://user-images.githubusercontent.com/79276639/133078422-1170c95a-287a-4e23-a9b6-f06b9ec39716.png) 
 
 - Repositories können eingebunden werden, indem ihr auf "New Repository" klickt und dann oben auf "Import a Repository"
+- Bei neuen Projekten macht es natürlich Sinn, das Repository nicht extern zu erstellen und dann zu importieren, sondern direkt in der Organisation zu erstellen
 - Alternativ kann ein Repository transferiert werden, also einem neuem Owner - in dem Fall der Organsiation - übergeben werden (siehe in den Settings des Repository)
 - Jeder kann Teams gründen, welche dann z.B. einem Repository zugewiesen werden können (Berechtigungen vergeben), außerdem habe die Teams eine gemeinsame Pinnwand und können getaggt werden mit @TeamName (genauso wie auch einzelne Personen)
 ![image](https://user-images.githubusercontent.com/79276639/133078235-a9ac88a4-75cf-4c7c-8bd3-47e65497e39f.png)
